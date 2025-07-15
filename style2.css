@@ -41,12 +41,14 @@
 
  .button:hover{
   color: #000000;
+   text-align:center;
  }
 
  .button-container {
    display: flex;
    gap: 20px;
    flex-wrap: wrap;
+   text-align:center;
  }
 
  nav {
