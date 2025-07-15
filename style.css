@@ -45,6 +45,7 @@
    display: flex;
    gap: 20px;
    flex-wrap: wrap;
+   text-align:center;
  }
 
  .retro-button {
@@ -58,12 +59,14 @@
    box-shadow: 4px 4px 0 #6e6e6e;
    transition: all 0.3s ease;
    cursor: pointer;
+   text-align:center;
  }
 
  .retro-button:hover {
    background-color: #6e6e6e;
    box-shadow: 2px 2px 0 #6e6e6e;
-   transform: translateY(-2px);
+   transform: translateY(-2px); 
+   text-align:center;
  }
  .buttonn-container {
    display: flex;
